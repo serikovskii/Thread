@@ -1,0 +1,7 @@
+c:\users\мукушева.corp\source\repos\ThredPoolLesson\ThredPoolLesson\bin\Debug\ThredPoolLesson.exe.config
+c:\users\мукушева.corp\source\repos\ThredPoolLesson\ThredPoolLesson\bin\Debug\ThredPoolLesson.exe
+c:\users\мукушева.corp\source\repos\ThredPoolLesson\ThredPoolLesson\bin\Debug\ThredPoolLesson.pdb
+c:\users\мукушева.corp\source\repos\ThredPoolLesson\ThredPoolLesson\obj\Debug\ThredPoolLesson.csprojAssemblyReference.cache
+c:\users\мукушева.corp\source\repos\ThredPoolLesson\ThredPoolLesson\obj\Debug\ThredPoolLesson.csproj.CoreCompileInputs.cache
+c:\users\мукушева.corp\source\repos\ThredPoolLesson\ThredPoolLesson\obj\Debug\ThredPoolLesson.exe
+c:\users\мукушева.corp\source\repos\ThredPoolLesson\ThredPoolLesson\obj\Debug\ThredPoolLesson.pdb
